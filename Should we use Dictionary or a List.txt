@@ -1,0 +1,5 @@
+dictionary: Object retrieved by the key name
+		(Unordered and can not be sorted)
+
+list: Object retreived by location
+		(Ordered sequence can be indexed or sliced)
